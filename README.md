@@ -1,4 +1,5 @@
 # Module02_Github__case-Study_-ND
+# Nabil Diaf
 # File: student_qualifications.py
 # Description: This app accepts student last names, first names, and GPAs.
 #              It determines whether each student qualifies for the Dean's List
